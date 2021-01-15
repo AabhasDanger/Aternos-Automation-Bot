@@ -1,1 +1,2 @@
 # Aternos-Automation-Bot
+SO this is a Discord Bot written in JavaScript in the Node.js runtime. Using the npm package discord.js to make calls to the api. So this bot helps us to turn on our minecraft servers from the hosting website aternos using web automation with a node.js library called puppeteer.
